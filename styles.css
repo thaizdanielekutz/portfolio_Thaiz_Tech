@@ -92,11 +92,17 @@ section {
   margin: 0 auto;
 }
 
+.content p {
+  color: #6a5acd;
+  text-align: justify;
+  line-height: 1.7rem;
+}
+
 footer {
   background-color: #333;
   color: #fff;
   text-align: center;
-  padding: 20px;
+  padding: 2px;
 }
 
 .social-links {
