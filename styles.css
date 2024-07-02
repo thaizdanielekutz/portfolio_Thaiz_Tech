@@ -92,8 +92,12 @@ section {
   margin: 0 auto;
 }
 
+.content h2 {
+  color: #2e275e;
+}
+
 .content p {
-  color: #6a5acd;
+  color: #483d8b;
   text-align: justify;
   line-height: 1.7rem;
 }
