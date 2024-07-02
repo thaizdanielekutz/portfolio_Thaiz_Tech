@@ -94,6 +94,14 @@ section {
 
 .content h2 {
   color: #2e275e;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.content ul li {
+  color: #483d8b;
+  text-align: justify;
+  line-height: 1.7rem;
 }
 
 .content p {
